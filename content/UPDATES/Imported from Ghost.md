@@ -83,7 +83,7 @@
 - [Green Garden](green-garden)
 - [Hire me...](hire-me)
 - [home](start)
-- [How I Broke Free from the Grind and Started Living a Life of Freedom, Adventure, and Joy](untitled)
+
 - [How to help c19](how-to-help-c19)
 - [Illegality of Canadian Covid-19 program](illegality)
 - [Impending Wave](impending-wave)
